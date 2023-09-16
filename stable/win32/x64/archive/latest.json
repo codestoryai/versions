@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/VSCodium/vscodium/releases/download/1.82.0.23250/VSCodium-win32-x64-1.82.0.23250.zip",
-  "name": "1.82.0.23250",
-  "version": "13ae69686c4390a9aee7b71b44337eb488319f26",
-  "productVersion": "1.82.0.23250",
-  "hash": "3bb043c2321f293a854e3202333afe73d014f8c5",
-  "timestamp": "1694114659870",
-  "sha256hash": "4a9ae2ef03fa0cc45d02b5863553950b5d098b8cd62c0dafc40030c0ce7d5888"
+  "url": "https://github.com/codestoryai/binaries/releases/download/1.82.2.23259/Aide-win32-x64-1.82.2.23259.zip",
+  "name": "1.82.2.23259",
+  "version": "efd8f20d8982bc7f598f0441003a8d88314e4427",
+  "productVersion": "1.82.2.23259",
+  "hash": "36d9509bdee79a2abba7cd8fa9b30403a0c82a8d",
+  "timestamp": "1694887863738",
+  "sha256hash": "cb9d51ea0510d365a3b2bb8428920a96bf53556efb1be9f1e09752381c4f61e9"
 }
