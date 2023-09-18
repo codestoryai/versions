@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/codestoryai/binaries/releases/download/1.82.2.23259/AideSetup-arm64-1.82.2.23259.exe",
-  "name": "1.82.2.23259",
-  "version": "efd8f20d8982bc7f598f0441003a8d88314e4427",
-  "productVersion": "1.82.2.23259",
-  "hash": "c23e2cc3b6a7c2d48bf181dee975cc6b4a8db673",
-  "timestamp": "1694854179662",
-  "sha256hash": "0048cafb546122305567ff55ce67d2a24e7908fb0541e3fd5fe60bceaf604ee5"
+  "url": "https://github.com/codestoryai/binaries/releases/download/1.82.2.23261/AideSetup-arm64-1.82.2.23261.exe",
+  "name": "1.82.2.23261",
+  "version": "6adaa3672f21d05ae798090f289b9e93a651224e",
+  "productVersion": "1.82.2.23261",
+  "hash": "87cad4bc1da2559d4299121ba34d46615b2f2329",
+  "timestamp": "1695073334328",
+  "sha256hash": "ec80d0dc1066929936c2a0fa3f2499115c615d957a8c7254781f035a9b4f815b"
 }
