@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/codestoryai/binaries/releases/download/1.82.2.23259/Aide-win32-ia32-1.82.2.23259.zip",
-  "name": "1.82.2.23259",
-  "version": "efd8f20d8982bc7f598f0441003a8d88314e4427",
-  "productVersion": "1.82.2.23259",
-  "hash": "b937a55ae6413f9c731bffed4e27085dbad1ae53",
-  "timestamp": "1694887229551",
-  "sha256hash": "cbcee48158fbece26ed749fd978ebe6c64953b504bbc369b0ca45f4aac5a535b"
+  "url": "https://github.com/codestoryai/binaries/releases/download/1.82.2.23261/Aide-win32-ia32-1.82.2.23261.zip",
+  "name": "1.82.2.23261",
+  "version": "6adaa3672f21d05ae798090f289b9e93a651224e",
+  "productVersion": "1.82.2.23261",
+  "hash": "feb69d65760d66f1034ae3c4805dcaedd009c4ae",
+  "timestamp": "1695075099491",
+  "sha256hash": "e4fbb94f815adb9a4cdc8d238071e864c047158d2460f1c4b04055835044e111"
 }

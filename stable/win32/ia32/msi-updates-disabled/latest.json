@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/codestoryai/binaries/releases/download/1.82.2.23259/Aide-ia32-updates-disabled-1.82.2.23259.msi",
-  "name": "1.82.2.23259",
-  "version": "efd8f20d8982bc7f598f0441003a8d88314e4427",
-  "productVersion": "1.82.2.23259",
-  "hash": "a94221cb2697ec0a8118a6f20b5fbd7988cdd0d4",
-  "timestamp": "1694887230082",
-  "sha256hash": "ffc6c84142436a9f37854a85d2c6963d09efce22eba972b47b398d36c73a3842"
+  "url": "https://github.com/codestoryai/binaries/releases/download/1.82.2.23261/Aide-ia32-updates-disabled-1.82.2.23261.msi",
+  "name": "1.82.2.23261",
+  "version": "6adaa3672f21d05ae798090f289b9e93a651224e",
+  "productVersion": "1.82.2.23261",
+  "hash": "2733f60a7e562b31c5b2f38945ea5fd70b3b85b9",
+  "timestamp": "1695075100008",
+  "sha256hash": "da2ac23e6f7c5d8ab21c3d22408a378b588d1785e570351cc1b38c01e3206472"
 }

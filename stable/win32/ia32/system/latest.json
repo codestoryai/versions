@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/codestoryai/binaries/releases/download/1.82.2.23259/AideSetup-ia32-1.82.2.23259.exe",
-  "name": "1.82.2.23259",
-  "version": "efd8f20d8982bc7f598f0441003a8d88314e4427",
-  "productVersion": "1.82.2.23259",
-  "hash": "7ecb7c298d588dec4d549ea26111c1eba1b4b396",
-  "timestamp": "1694887229019",
-  "sha256hash": "eb73866c42831ba5ad24e183286b2bb5564eab5971e66a6434af40470660606f"
+  "url": "https://github.com/codestoryai/binaries/releases/download/1.82.2.23261/AideSetup-ia32-1.82.2.23261.exe",
+  "name": "1.82.2.23261",
+  "version": "6adaa3672f21d05ae798090f289b9e93a651224e",
+  "productVersion": "1.82.2.23261",
+  "hash": "2939b26c9c869cc3024bb0dcebc6cff6f4cad91f",
+  "timestamp": "1695075098960",
+  "sha256hash": "7b41d75e37f8f1125b2cd8a1589e48aa937556e1bc5b69576474ab5370a04bcd"
 }
