@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/codestoryai/binaries/releases/download/1.87.2.24077/Aide-darwin-x64-1.87.2.24077.zip",
-  "name": "1.87.2.24077",
-  "version": "7fedc8e152d64a3f793959045a7a894f2426a861",
-  "productVersion": "1.87.2.24077",
-  "hash": "a12b56b35178f562577bd08d65884f879de266d5",
-  "timestamp": "1710707391024",
-  "sha256hash": "f9bbd14e77873eb91611348dca4bd71eb94466bca015289de8374d255fc7c3d8"
+  "url": "https://github.com/codestoryai/binaries/releases/download/1.87.2.24078/Aide-darwin-x64-1.87.2.24078.zip",
+  "name": "1.87.2.24078",
+  "version": "1a60d2c7efaa31d914f6fcf32e01fbf9986ee8a4",
+  "productVersion": "1.87.2.24078",
+  "hash": "c028d5d47c0097cba77b7525e2b64c1512b077da",
+  "timestamp": "1710721979177",
+  "sha256hash": "e7ed20065d74e2d461308218ca92c2c435c0ab46bc9f367a1aa509a705520f26"
 }
