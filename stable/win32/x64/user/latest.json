@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/codestoryai/binaries/releases/download/1.88.1.24107/AideUserSetup-x64-1.88.1.24107.exe",
-  "name": "1.88.1.24107",
-  "version": "6dda28600d7e9f086106a29e95ebc0039bd1518e",
-  "productVersion": "1.88.1.24107",
-  "hash": "d85fcfa67056c71f22a548a7d83392ec4d951864",
-  "timestamp": "1713264563896",
-  "sha256hash": "53bf04c661bdf722a1510c41d2c06c94cb87455b81a06ba170801cb7246c15ed"
+  "url": "https://github.com/codestoryai/binaries/releases/download/1.88.1.24119/AideUserSetup-x64-1.88.1.24119.exe",
+  "name": "1.88.1.24119",
+  "version": "04b5444b71a901fe50186c658ed17333ff3953d5",
+  "productVersion": "1.88.1.24119",
+  "hash": "a4b437bda4da4ec7261c6921783ab9edabe6b4e6",
+  "timestamp": "1714344046105",
+  "sha256hash": "bbeab5fee779f479ca10532f7512ff3c0954efbb176dc287f1b99cc731e98f8f"
 }
