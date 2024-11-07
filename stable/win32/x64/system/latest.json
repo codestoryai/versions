@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/codestoryai/binaries/releases/download/1.94.2.24311/AideSetup-x64-1.94.2.24311.exe",
-  "name": "1.94.2.24311",
-  "version": "b7fcdfaa29c1b830f689faf9354a9b4d215fd7d8",
-  "productVersion": "1.94.2.24311",
-  "hash": "86e4f14751fffa3b891430f6aba234df5269f4e4",
-  "timestamp": "1730895259304",
-  "sha256hash": "6b497d171716496727429986d390177c871bff2347aada0a0417355ba2c3460d"
+  "url": "https://github.com/codestoryai/binaries/releases/download/1.94.2.24312/AideSetup-x64-1.94.2.24312.exe",
+  "name": "1.94.2.24312",
+  "version": "8256733ac1e4530426651d617f8f69c6311e6424",
+  "productVersion": "1.94.2.24312",
+  "hash": "3a718d89f9720e845498cf67c28d3313d051af5f",
+  "timestamp": "1731002327992",
+  "sha256hash": "56a2200f029cf2daca46c6b8354fcf82c75b783482b2767dbbd733adae8aff5d"
 }
