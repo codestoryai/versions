@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/codestoryai/binaries/releases/download/1.94.2.24313/Aide-win32-x64-1.94.2.24313.zip",
-  "name": "1.94.2.24313",
-  "version": "715680230ecacd9111a9909c281dcd1266ec4b53",
-  "productVersion": "1.94.2.24313",
-  "hash": "5215fcca78db9d7efe951ea7e6bf89172cc4f5cf",
-  "timestamp": "1731105511342",
-  "sha256hash": "206b6de050eba3db02de9671fce639e7dddece3875abf737dd3c50d6df86c080"
+  "url": "https://github.com/codestoryai/binaries/releases/download/1.94.2.24316/Aide-win32-x64-1.94.2.24316.zip",
+  "name": "1.94.2.24316",
+  "version": "41f154bbdde637b82dbfb2cd2af538ef2ddaa302",
+  "productVersion": "1.94.2.24316",
+  "hash": "a96568541bdcb19cf9157981bbec62c93a2d658c",
+  "timestamp": "1731326949946",
+  "sha256hash": "52008b5994a9042ee1342dfa7edd2b37091929f274c1d1d247d3166bfe8c3d13"
 }
