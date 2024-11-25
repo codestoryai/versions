@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/codestoryai/binaries/releases/download/1.94.2.24329/Aide-linux-armhf-1.94.2.24329.tar.gz",
-  "name": "1.94.2.24329",
-  "version": "fbd3dc9f2bf7f08dfc45633c1d940c7e6e7133ce",
-  "productVersion": "1.94.2.24329",
-  "hash": "89393e3c7a632540ae24eae8e2a77379224e3d01",
-  "timestamp": "1732473092194",
-  "sha256hash": "2d9dbc1ff00bd512ae407df3d188d33d148791533851049af0408159f2598bb0"
+  "url": "https://github.com/codestoryai/binaries/releases/download/1.94.2.24330/Aide-linux-armhf-1.94.2.24330.tar.gz",
+  "name": "1.94.2.24330",
+  "version": "5215ca9b43343d4f216ebe1fd2734d2c70abe5ec",
+  "productVersion": "1.94.2.24330",
+  "hash": "fa25f0f4f18bb9f1dbce73c83713a66e8e27862a",
+  "timestamp": "1732565070790",
+  "sha256hash": "ebb47696952408fb783bcf54c963613b7f47e1d90059af067f5bdc225b6738b3"
 }
