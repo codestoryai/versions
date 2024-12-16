@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/codestoryai/binaries/releases/download/1.94.2.24349/Aide-linux-x64-1.94.2.24349.tar.gz",
-  "name": "1.94.2.24349",
-  "version": "1fb868b474744149b8479b76259945a49cfb5e06",
-  "productVersion": "1.94.2.24349",
-  "hash": "e2a10ce5a4651449a4ba27b9e642df032b4ad077",
-  "timestamp": "1734183800047",
-  "sha256hash": "ccc99d76272671d8df2c2932d8b425c5ea241e8c1b7c80e1881a3d8571ff44f0"
+  "url": "https://github.com/codestoryai/binaries/releases/download/1.94.2.24351/Aide-linux-x64-1.94.2.24351.tar.gz",
+  "name": "1.94.2.24351",
+  "version": "ae3782c198cc9f9533202058bbae1da114bda33e",
+  "productVersion": "1.94.2.24351",
+  "hash": "9a03d979cdfbb07f94dcfd3b5a3ac82f5a5850db",
+  "timestamp": "1734374561101",
+  "sha256hash": "a190591f15b22653d077b1c251138e693f78747211f24dfec64b35a2bb283d3a"
 }
