@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/codestoryai/binaries/releases/download/1.94.2.24352/Aide-x64-1.94.2.24352.msi",
-  "name": "1.94.2.24352",
-  "version": "d10293b983982fb42f64a0eff504693bc73af2e6",
-  "productVersion": "1.94.2.24352",
-  "hash": "80829b20c7a0af6d99cf723206591c402e5f599f",
-  "timestamp": "1734474346753",
-  "sha256hash": "1e1d52376fcdf87d33d6bdfe3072a659274ae4d84ca8bcda9293b03097ef59db"
+  "url": "https://github.com/codestoryai/binaries/releases/download/1.94.2.24354/Aide-x64-1.94.2.24354.msi",
+  "name": "1.94.2.24354",
+  "version": "1a8ef6e697768740b486661e6512ab1a1c989b62",
+  "productVersion": "1.94.2.24354",
+  "hash": "433566278859b52e314550f80c21284418c104d1",
+  "timestamp": "1734619444507",
+  "sha256hash": "a81f97bc14881fa0a20d5698b7221b99eb204c6e36dad0ec2dacadd49422e368"
 }
