@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/codestoryai/binaries/releases/download/1.96.2.25006/AideUserSetup-arm64-1.96.2.25006.exe",
-  "name": "1.96.2.25006",
-  "version": "b28f1ea1496747513828ff4cfb85665b2433bd66",
-  "productVersion": "1.96.2.25006",
-  "hash": "c764644e5a4bd0b5bbf580be1c9f094b8ac1e6ba",
-  "timestamp": "1736205791511",
-  "sha256hash": "ef43d88ffc28390ffe594d76d60bd2977180de1530041806136bca20a9e735c1"
+  "url": "https://github.com/codestoryai/binaries/releases/download/1.96.2.25007/AideUserSetup-arm64-1.96.2.25007.exe",
+  "name": "1.96.2.25007",
+  "version": "99a88624e38e8855da5dd9c2a3ffdcbdb1f799ae",
+  "productVersion": "1.96.2.25007",
+  "hash": "1935524d6f2936adee56d2f1c1c243da04a07131",
+  "timestamp": "1736214227149",
+  "sha256hash": "4d3f04bcfc9993aa62f6cd43e0648593da3eb86a455134bdca6de14a144b595e"
 }
