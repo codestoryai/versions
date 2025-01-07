@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/codestoryai/binaries/releases/download/1.96.2.25006/Aide-linux-arm64-1.96.2.25006.tar.gz",
-  "name": "1.96.2.25006",
-  "version": "b28f1ea1496747513828ff4cfb85665b2433bd66",
-  "productVersion": "1.96.2.25006",
-  "hash": "04a9291971cd64d4cc5c136250adfcd479c5c11a",
-  "timestamp": "1736205406233",
-  "sha256hash": "ef53d6f4baf8e807af414b3a69690470bc04b1da08671670ac76ac74b234dc9b"
+  "url": "https://github.com/codestoryai/binaries/releases/download/1.96.2.25007/Aide-linux-arm64-1.96.2.25007.tar.gz",
+  "name": "1.96.2.25007",
+  "version": "99a88624e38e8855da5dd9c2a3ffdcbdb1f799ae",
+  "productVersion": "1.96.2.25007",
+  "hash": "e35bd8ebaad85394fc05aab43fbb20468807e7b6",
+  "timestamp": "1736213537938",
+  "sha256hash": "630156fd9654d67fb9142cc4bb89824029876e94aa0c66ed98d7529ffa9a01fc"
 }
