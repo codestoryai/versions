@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/codestoryai/binaries/releases/download/1.96.2.25016/Aide-linux-loong64-1.96.2.25016.tar.gz",
-  "name": "1.96.2.25016",
-  "version": "7690db1e485beff45e3bde7d7b167391f924069f",
-  "productVersion": "1.96.2.25016",
-  "hash": "612cfdce36fdee025791e00256ac00cb92d686c9",
-  "timestamp": "1737058984041",
-  "sha256hash": "ba6859002885e2007da46a61903c5f57228cc191b9c343a8893f6555828f55c6"
+  "url": "https://github.com/codestoryai/binaries/releases/download/1.96.2.25017/Aide-linux-loong64-1.96.2.25017.tar.gz",
+  "name": "1.96.2.25017",
+  "version": "2f82f5bb863224d58fa9c3dbf017db9c065579bd",
+  "productVersion": "1.96.2.25017",
+  "hash": "445966ee970136378895e8e533bdec0058e45df1",
+  "timestamp": "1737141038115",
+  "sha256hash": "0473c993485a9fe9e3282e2542ff30d84c9ee60eff93fc8a0c294f204083676b"
 }
