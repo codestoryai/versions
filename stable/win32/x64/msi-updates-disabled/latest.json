@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/codestoryai/binaries/releases/download/1.96.2.25025/Aide-x64-updates-disabled-1.96.2.25025.msi",
-  "name": "1.96.2.25025",
-  "version": "9325e33a596ce6fbe1222a0a7d0e3eb83951001c",
-  "productVersion": "1.96.2.25025",
-  "hash": "2e4d8f8c9eb22b7d78a72ac88ab84aefa431c23c",
-  "timestamp": "1737832191441",
-  "sha256hash": "349407e56966213745b426c5dc77b325d625ede3c8cef83aee48052cd19c0ada"
+  "url": "https://github.com/codestoryai/binaries/releases/download/1.96.2.25026/Aide-x64-updates-disabled-1.96.2.25026.msi",
+  "name": "1.96.2.25026",
+  "version": "789bdb1dc04768c47aa2fcb19dfd4c3351990fb3",
+  "productVersion": "1.96.2.25026",
+  "hash": "7a34c23406862d29a26bf68c662f862dcfab555e",
+  "timestamp": "1737937273910",
+  "sha256hash": "670e3d93d5b46607cbf8156b509767247889c17bdcf32a42f32a14ec2dcc51f9"
 }
